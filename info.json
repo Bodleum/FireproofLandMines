@@ -1,0 +1,10 @@
+{
+	"name": "Fireproof Land Mines",
+	"version": "1.0.0",
+	"factorio_version": "1.1",
+	"title": "Fireproof Land Mines",
+	"author": "Bodleum",
+	"description": "Makes land mines completely fireproof.",
+	"date": "2022-06-03",
+	"dependencies": ["base"]
+}
